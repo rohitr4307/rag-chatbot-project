@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+env/
+venv/
+
+# Vector DB
+faiss_index/
+
+# VS Code / Visual Studio
+.vscode/
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
