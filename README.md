@@ -211,13 +211,13 @@ AI / Data Science Professional
 LinkedIn:
 
 ```
-(https://www.linkedin.com/in/rohitranjan4307/)
+[https://www.linkedin.com/in/rohitranjan4307/]
 ```
 
 GitHub:
 
 ```
-(https://github.com/rohitr4307)
+[https://github.com/rohitr4307]
 ```
 
 ---
