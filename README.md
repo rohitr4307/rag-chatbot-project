@@ -173,7 +173,7 @@ python app.py
 
 # 🧪 Example Interface
 
-*(Add screenshot here)*
+<img width="899" height="449" alt="Screenshot 2026-03-05 160334" src="https://github.com/user-attachments/assets/d11cb9bd-cddf-4b6c-a170-e44fcc23373d" />
 
 Example:
 
